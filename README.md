@@ -6,7 +6,7 @@ https://dev.d22wq2d6siim5h.amplifyapp.com/
 
 ## Screenshots
 
-![Architecture Diagram](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Architecture Diagram]([https://github.com/yyhao0422/end-to-end_webapp/blob/master/architecturediagram.png])
 
 
 
