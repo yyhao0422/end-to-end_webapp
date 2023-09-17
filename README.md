@@ -1,10 +1,7 @@
 
-## Demo Live View
-
-https://dev.d22wq2d6siim5h.amplifyapp.com/
 
 
-## Screenshots
+## Architecture Diagram
 
 ![Architecture Diagram](https://github.com/yyhao0422/end-to-end_webapp/blob/master/architecturediagram.png)
 
@@ -108,3 +105,8 @@ def lambda_handler(event, context):
 ## Final
 1. Update your HTML code by adding the Invoke URL for the RestAPI.
 2. Test your App.
+
+
+## Demo Live View
+
+https://dev.d22wq2d6siim5h.amplifyapp.com/
